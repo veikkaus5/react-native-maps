@@ -47,7 +47,7 @@
     "eslint-plugin-prefer-object-spread": "^1.1.0",
     "eslint-plugin-react": "^6.1.2",
     "gitbook-cli": "^2.3.0",
-    "lodash": "^4.17.2",
+    "lodash": "^4.17.2"
   },
   "rnpm": {
     "android": {
